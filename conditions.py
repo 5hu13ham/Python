@@ -24,3 +24,8 @@ elif(stu_grade >= 60 and stu_grade < 70):
     print("D")
 else:
     print("F")
+
+
+a =2
+b = -a
+print(-a+b)
